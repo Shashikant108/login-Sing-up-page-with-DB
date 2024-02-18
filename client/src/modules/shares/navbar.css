@@ -1,0 +1,13 @@
+
+.nav1{
+    background: rgb(160,36,68);
+    background: linear-gradient(90deg, rgba(160,36,68,1) 0%, rgba(17,172,32,0.7743467015712535) 58%, rgba(162,188,145,1) 92%);
+}
+
+.drop2{
+    display: flex;
+    gap: 7px;
+}
+li{
+    list-style: none;
+}
